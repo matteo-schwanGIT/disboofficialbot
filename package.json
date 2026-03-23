@@ -1,0 +1,15 @@
+{ 
+  "name": "disboofficialbot", 
+  "version": "1.0.0", 
+  "description": "A Discord bot using discord.js.", 
+  "main": "src/index.js", 
+  "scripts": { 
+    "start": "node src/index.js", 
+    "test": "echo 'Error: no test specified' && exit 1" 
+  }, 
+  "dependencies": { 
+    "discord.js": "^14.0.0" 
+  }, 
+  "author": "matteo-schwanGIT", 
+  "license": "MIT" 
+}
